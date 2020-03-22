@@ -1,8 +1,9 @@
-# Chinese-NER-
+# Chinese-NER
 环境
 ====
 python3.5
 tensorflow 1.4
+<br>
 数据格式
 ====
 联	B-PRO<br>
