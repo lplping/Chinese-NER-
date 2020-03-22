@@ -1,12 +1,11 @@
-# Chinese-NER
-环境
-====
+
+#环境
+
 <br>
 python3.5
 tensorflow 1.4
 <br>
-数据格式
-====
+#数据格式
 <br>
 联	B-PRO<br>
 通	I-PRO<br>
